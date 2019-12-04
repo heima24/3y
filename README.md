@@ -1,9 +1,4 @@
 
-![关注](https://user-gold-cdn.xitu.io/2019/9/24/16d633ad7e62c2fe?w=833&h=325&f=png&s=127042)
-
-从Java基础、JavaWeb基础到常用的框架再到面试题都有**完整的教程**，几乎涵盖了Java后端必备的知识点。该开源仓库很多的文章都是我**个人原创**，有部分来自顶级大佬的干货文章，很多知识点我还在不停的总结和完善。点击关注<a href="#公众号"><img src="https://img.shields.io/badge/公众号-Java3y-blue.svg" alt="公众号"></a>
-及时获取最新文章
-
 :sparkling_heart:我希望这个开源仓库：
 
 - 能给你学习时带来帮助
@@ -12,21 +7,8 @@
 - ...
 
 
-
-
-[**我帮阿里云推广服务器89/年，229/3年，买来送自己，送女朋友马上过年再合适不过了，买了搭建个项目给面试官看也香，还可以熟悉技术栈，(老用户用家人账号买就好了，我用我女朋友的😂）。扫码或者点击购买**](https://www.aliyun.com/minisite/goods?userCode=pfn5xpli&share_source=copy_link)
-
-![](https://user-gold-cdn.xitu.io/2019/12/3/16ecb45e19ed59e0?w=100&h=100&f=png&s=1554)
-
-[**搭建教程，从0开始一步一步带你搭建**😂](https://mp.weixin.qq.com/s/MQqasjPs4Y-OCjQLuFj4ew)
-
-
 <p align="center">
   <a href="#目录"><img src="https://img.shields.io/badge/目录(善用搜索)-read-brightgreen.svg" alt="阅读"></a>
-  <a href="#微信群"><img src="https://img.shields.io/badge/chat-微信群-lightgrey.svg" alt="微信群"></a>
-  <a href="#公众号"><img src="https://img.shields.io/badge/公众号-Java3y-blue.svg" alt="公众号"></a>
-  <a href="#更多资料"><img src="https://img.shields.io/badge/获取-更多资料-critical.svg" alt="更多资料"></a>
-
 </p>
 
 
@@ -34,7 +16,7 @@
 
 ###  :coffee:Java基础  ###
 
-- [2018年如何快速学Java](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484369&idx=1&sn=81beba398864b0b56cc1970e715e03b2&chksm=ebd742d0dca0cbc682abf4319dccc28ef171675b3bd89a20664c14511efcf8c5b5c5c27db432&scene=21###wechat_redirect)
+- [2019年如何快速学Java](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484369&idx=1&sn=81beba398864b0b56cc1970e715e03b2&chksm=ebd742d0dca0cbc682abf4319dccc28ef171675b3bd89a20664c14511efcf8c5b5c5c27db432&scene=21###wechat_redirect)
 - [泛型就这么简单](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484109&idx=1&sn=ed48fa9216c260fb9b622d9f383d8c25&chksm=ebd743ccdca0cadad9e8e4a5cd9a7ce96b595ddaf6fb2e817a9a0d49d4d54c50bb93a97e56eb&scene=21###wechat_redirect)
 - [注解就这么简单](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484113&idx=1&sn=f5fd35b2f7dc45a256fee170cad0cdc9&chksm=ebd743d0dca0cac6a8fed8caf09f0d561b0358dece9b8e746e1e6726bca093287cf515638349&scene=21###wechat_redirect)
 - [Druid数据库连接池就是这么简单](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484075&idx=1&sn=ca6f0f19c32eb3276a8b562888e49120&chksm=ebd743aadca0cabc934b891fdc4e116d573042f72ae87893df5c2883e46b96affac7c1923cab&scene=21###wechat_redirect)
@@ -451,7 +433,7 @@
 - [运输层](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484322&idx=7&sn=cde9aa52b0c62efc642401c87e9a8c01&chksm=ebd742a3dca0cbb53a459c500e310dc49fccf8df577b95806aaf34d3220c288337cc6d4132fe&token=620000779&lang=zh_CN&scene=21###wechat_redirect)
 - [应用层](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484322&idx=8&sn=9dda601c5387ed04fbd7bfd83fda0da1&chksm=ebd742a3dca0cbb52d4993e0b4c38199520a685b5b966e7c43679c310c14dc5b535551876e79&token=620000779&lang=zh_CN&scene=21###wechat_redirect)
 
-###  :christmas_tree:个人  ###
+###  :christmas_tree:该仓库作者个人经历  ###
 
   
 
@@ -662,28 +644,4 @@
 - [图解数据结构之数组、链表、栈、队列](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485794&idx=2&sn=3d46cebad4cbc121ee1c2c5217968f23&chksm=ebd74863dca0c175d948bdc71546301552330f94ce43da8c73ba2083390028a645b9184e8310&token=1928620508&lang=zh_CN#rd)
 - [为什么你学不会递归？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486037&idx=2&sn=c4f54519dcdf13c8a9a4b6add8cc7f2e&chksm=ebd74b54dca0c242bfdec988ba1e897f000529ff23cf94d1fc075e7021c8f7d798904ab30011&token=1879076182&lang=zh_CN#rd)
 
-#### :sparkling_heart:<a name="微信群">加入微信群</a> ###
 
-
-添加我的微信备注“**加群**”，即可加入技术交流群,里面的都是人才,各个说话都好听,回到这里就像回到家一样。技术交流为主，拒绝营销广告，开发学习工作中遇到问题可以在微信群交流。欢迎有需要的朋友加群。
-
-<img src='https://img-blog.csdnimg.cn/20191113141315386.png' width=300px height=300px />
-
-
-#### :sparkling_heart:<a name="公众号">加入公众号</a> ###
-
-如果大家想要**实时**关注我更新的文章以及分享的干货的话，可以关注我的公众号
-
-<img src='https://img-blog.csdnimg.cn/2019111314072367.jpg' width=400px height=400px />
-
-#### :sparkling_heart:<a name="更多资料">更多资料</a> ###
-
-
-关注公众号：Java3y推送最新的**干货**技术文章
-
-- :art:**获取海量视频资源**， 回复          视频
-- :bell:**获取Java精美脑图**，回复         脑图
-- :clipboard:**获取Java学习路线**，回复    路线
-- :sound:**获取开发常用工具**， 回复        工具
-
-<img src='https://img-blog.csdnimg.cn/2019111314072367.jpg' width=400px height=400px />
